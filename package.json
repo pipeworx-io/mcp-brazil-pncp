@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-brazil-pncp",
+  "version": "0.1.0",
+  "description": "Brazil PNCP MCP — Brazilian government procurement (keyless).",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "brazil-pncp"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-brazil-pncp"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
