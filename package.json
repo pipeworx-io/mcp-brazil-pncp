@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-brazil-pncp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Brazil PNCP MCP — Brazilian government procurement (keyless).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "brazil-pncp",
     "gatewaySlug": "brazil-pncp",
-    "sourceHash": "v1-7ee31c5699d839ad0e7faf6428f690570e61b8e53271cd9c7696ebb478f61614",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-f18f13f9e4f33b865efd6b5aabdd09522804c2c11f55a4b6b24739233a7a8cdc",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
